@@ -8,7 +8,8 @@
     "vector": "cpp",
     "iterator": "cpp",
     "scoped_allocator": "cpp",
-    "regex": "cpp"
+    "regex": "cpp",
+    "chrono": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
